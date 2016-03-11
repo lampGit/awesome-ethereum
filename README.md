@@ -30,11 +30,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 *Implementations of the ethereum protocol.*
 
-* [C++ Client](https://github.com/qw3rtman/p) - C++ Client.
-* [Go Client](https://github.com/yyuu/pyenv) - Go Client.
-* [Java Client](https://docs.python.org/3/library/venv.html) - Java Client.
-* [NodeJS Client](https://pypi.python.org/pypi/virtualenv) - NodeJS Client.
-* [Python Client](https://pypi.python.org/pypi/virtualenvwrapper) - Python Client.
+* [C++ Client](https://github.com/ethereum/cpp-ethereum) - C++ Client.
+* [Go Client](https://github.com/ethereum/go-ethereum) - Go Client.
+* [Java Client](https://github.com/ethereum/ethereumj) - Java Client.
+* [NodeJS Client](https://github.com/ethereum/node-ethereum) - NodeJS Client.
+* [Python Client](https://github.com/ethereum/pyethereum) - Python Client.
 
 
 # Resources
