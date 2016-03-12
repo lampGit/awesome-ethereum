@@ -1,4 +1,4 @@
-# Awesome-ethereum
+# Awesome-Ethereum
 
 A curated list of awesome Ethereum Ressources. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
@@ -15,7 +15,15 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 - [Awesome Ethereum](#awesome-ethreum)
     - [Clients](#clients)
 - [Services](#services)
+- [Mining](#mining)
+- [DAPP](#dapp)
+- network stats
 
+ - Fundation
+- [Community](#community)
+    - [Social](#websites)
+    - [Meetups](#weekly)
+    - [Events](#twitter)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Weekly](#weekly)
@@ -26,7 +34,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 - - -
 
-### Clients
+# Clients
 
 *Implementations of the ethereum protocol.*
 
@@ -36,6 +44,50 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 * [NodeJS Client](https://github.com/ethereum/node-ethereum) - NodeJS Client.
 * [Python Client](https://github.com/ethereum/pyethereum) - Python Client.
 
+# Network Stat
+* [ethstats](https://ethstats.net/) - See latest data on Network Stats.
+* 
+
+# Mining
+
+## How to
+
+## Mining pools
+
+#Ether
+
+## Info
+
+##Exchanges
+*Where you can trade ether*
+
+
+# Solidity
+## Guide
+* [Solidity Guide](https://solidity.readthedocs.org/en/latest/) - Learn the Solidity Language.
+
+# Fundation
+
+*The Ethereum Foundation’s mission is to promote and support research, development and education to bring decentralized protocols and tools to the world that empower developers to produce next generation decentralized applications (dapps), and together build a more globally accessible, more free and more trustworthy Internet.*
+
+* [Website](https://ethereum.org/foundation) -  .
+
+
+# Community
+
+## Social
+* [Facebook](https://www.facebook.com/ethereumproject) - Facebook.
+* [Twitter](https://twitter.com/ethereumproject) - Twitter.
+* [Reddit](https://www.reddit.com/r/ethereum) - Reddit.
+* [Youtube](https://www.youtube.com/user/ethereumproject) -  .
+* [IRC](https://github.com/ethereum/go-ethereum) - IRC.
+* [Blog](https://blog.ethereum.org/) - The official blog.
+* [Stack Exchange](https://ethereum.stackexchange.com) - Stack Exchange.
+
+
+## Meetups
+
+## Events
 
 # Resources
 
@@ -48,6 +100,11 @@ Where to discover new Ethereum Content.
 ## Weekly
 
 * [Newsletter](http://importpython.com/newsletter/)
+
+## Logo
+* [Logo Assets](https://ethereum.org/assets)
+
+
 
 ## Twitter
 
