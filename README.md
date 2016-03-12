@@ -44,6 +44,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 * [NodeJS Client](https://github.com/ethereum/node-ethereum) - NodeJS Client.
 * [Python Client](https://github.com/ethereum/pyethereum) - Python Client.
 
+# Blockhain Explorer
+https://www.etherchain.org/
+https://live.ether.camp/
+
 # Network Stat
 * [ethstats](https://ethstats.net/) - See latest data on Network Stats.
 * 
@@ -60,6 +64,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 ##Exchanges
 *Where you can trade ether*
+* [Poloniex](https://poloniex.com/exchange#btc_eth) - Poloniex.
+* [Kraken](https://www.kraken.com/) - Kraken.
+* [GateCoin](hhttps://www.gatecoin.com/markets) - Gatecoin.
+* [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-ETH) - Bitrrex.
 
 
 # Solidity
@@ -83,7 +91,37 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 * [IRC](https://github.com/ethereum/go-ethereum) - IRC.
 * [Blog](https://blog.ethereum.org/) - The official blog.
 * [Stack Exchange](https://ethereum.stackexchange.com) - Stack Exchange.
+* [Forum](https://forum.ethereum.org/) - Forum.
 
+## Skype
+### Main Skype Channels
+- Ethereum: the main channel, bridged to IRC #ethereum
+- Ethereum-dev: the developer's channel, bridged to IRC #ethereum-dev
+
+### Speciality Skype Channels
+- Solidity and web3
+- Pi Ethereum
+- Serpent
+- Miner community Support
+- ÐΞVgrants
+- Ethereum: Reputation - discussion, education and delivery
+- Netstats: chat regarding stats.ethdev.com
+
+### Regional Skype Channels
+- London General: London-based Etherians (alternatively there is a discord chat room)
+- Italia: Italian Etherians
+- Romania: Romanian Etherians
+- Russia - Russian Etherians (Russian language)
+
+## Gitter channels
+- Go-Ethereum
+
+## IRC channels (Freenode)
+- bitly.com/irc_ethereum #ethereum: for general discussion
+- #ethereum-dev: for development specific questions and discussions
+- ##ethereum: for offtopic and banter
+- #ethereum-mining: for mining only conversations
+- #ethereum-markets: for discussions about markets
 
 ## Meetups
 
