@@ -1,6 +1,6 @@
 # Awesome-Ethereum
 
-A curated list of awesome Ethereum Ressources. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome Ethereum Ressources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
