@@ -40,7 +40,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 * [Python Client](https://github.com/ethereum/pyethereum) - Python Client.
 
 
-# Network Stat
+# Network Stat <a id="network-stat"></a>
 * [ethstats](https://ethstats.net/) - See latest data on Network Stats.
 
 
