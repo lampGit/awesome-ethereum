@@ -179,6 +179,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 ## How to {#mining-hoe-to}
 
 * [Mining FAQ](https://forum.ethereum.org/discussion/197/mining-faq-live-updates/p1) - Mining FAQ.
+* [Mining FAQ](https://www.cryptocompare.com/mining/guides/how-to-mine-ethereum/) - How to mine Ethereum on a Windows PC?.
 
 ## Mining pools {#mining-pools}
 *Fell alone? join a pool*
