@@ -149,9 +149,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 * [Poloniex](https://poloniex.com/exchange#btc_eth) - Poloniex.
 * [Kraken](https://www.kraken.com/) - Kraken.
-* [GateCoin](hhttps://www.gatecoin.com/markets) - Gatecoin.
+* [GateCoin](https://www.gatecoin.com/markets) - Gatecoin.
 * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-ETH) - Bitrrex.
 * [Exmo](https://exmo.com) - Exmo.
+* [Bitfinex](https://www.bitfinex.com/) - Bitfinex.
 * [The whole list](https://coinmarketcap.com/currencies/ethereum/#markets) -  All exchanges accepting ETH from coinmarketcap.com.  
 
 ## Faucets {#faucets}
