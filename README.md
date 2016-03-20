@@ -13,10 +13,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 - [Basic](#basic)
     - [What is Ethereum?](#what-is-ethereum)
     - [Papers](#papers)
-    - [Roadmap](#Roadmap)
-    - [Branding / Logo](#Branding / Logo)
-    - [Crowfunding](#Crowfunding)
-    - [Foundation](#Foundation)
+    - [Roadmap](#roadmap)
+    - [Branding / Logo](#branding)
+    - [Crowfunding](#crowfunding)
+    - [Foundation](#foundation)
 - [Clients](#clients)
 - [The Ethereum Network](#network)
   - [Network Stat](#network-stats)
@@ -46,7 +46,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 - [Community](#community)
     - [Social](#websites)
     - [Skype](#skype)
-    - [Meetups](#weekly)
+    - [Meetups](#meetups)
     - [Events](#twitter)
 - [Stay up to date](#up-to-date)
     - [newsletter](#newsletter)
@@ -171,7 +171,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 * [Mist](https://github.com/ethereum/mist) -  Mist - Official wallet with integrated full node.  
 * [Jaxx](https://jaxx.io/) - By KryptoKit, Wallets that unify the Bitcoin and Ethereum experience accross Devices.
 * [Myetherwallet](https://www.myetherwallet.com/) - Open Source JavaScript Client-Side Ether Wallet.
-* [icebox](https://github.com/ConsenSys/icebox) - Lightwallet-powered cold storage solution..
+* [Icebox](https://github.com/ConsenSys/icebox) - Lightwallet-powered cold storage solution..
 
 
 # Mining {#mining}
@@ -180,7 +180,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 ## How to {#mining-hoe-to}
 
 * [Mining FAQ](https://forum.ethereum.org/discussion/197/mining-faq-live-updates/p1) - Mining FAQ.
-* [Mining FAQ](https://www.cryptocompare.com/mining/guides/how-to-mine-ethereum/) - How to mine Ethereum on a Windows PC?.
+* [How to mine Ethereum on a Windows PC?](https://www.cryptocompare.com/mining/guides/how-to-mine-ethereum/) - How to mine Ethereum on a Windows PC?.
 
 ## Mining pools {#mining-pools}
 *Fell alone? join a pool*
@@ -306,7 +306,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
   - #ethereum-mining: for mining only conversations
   - #ethereum-markets: for discussions about markets
 
-## Meetups {#meetup}
+## Meetups {#meetups}
 * [London, UK](https://www.facebook.com/ethereumproject) - London, UK.
 * [Paris, France](http://www.meetup.com/Ethereum-Paris/) - Paris, France.
 * [New York, USA](http://www.meetup.com/NYC_Ethereum/) - New York, USA.
@@ -334,11 +334,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 ## Newsletter {#newsletter}
 
-* [Newsletter](#)
+* [Newsletter](#) -
 
 ## Podcast {#podcast}
 
-* [Podcast](#)
+* [The Ether Review](https://letstalkbitcoin.com/blog/category/the-ether-review) - The Ether Review.
 
 
 # Contributing
