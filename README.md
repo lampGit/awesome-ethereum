@@ -219,6 +219,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 ## Casper {#casper}
 * [Casper](https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/) - Casper - Proof of Work (PoW) for Serenity.
+* [Research](https://gitter.im/ethereum/research) - ethereum/research
 
 ## Whisper {#whisper}
 *an upcoming P2P messaging protocol that will be integrated into the EtherBrowser.*
