@@ -198,6 +198,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 *Solidity, the JavaScript-like language*
 
 * [Solidity Guide](https://solidity.readthedocs.org/en/latest/) - Learn the Solidity Language.
+* [Diving Into The Ethereum Virtual Machine](https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30)
+  * An article series examining different aspects of the EVM by walking you through Solidity's assembly output
 
 ## Serpent
 *Serpent, the Python-like language*
