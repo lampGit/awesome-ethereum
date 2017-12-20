@@ -42,6 +42,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
   - [Swarm](#swarm)
   - [Web3-j](#web3-j)
   - [Gas](#gas)
+  - [Web3.php](#web3.php)
 - [Projects](#projects)
 - [Community](#community)
     - [Social](#websites)
@@ -242,6 +243,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 * [What is Gas?](https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/) - What is the “Gas” in Ethereum? -Post from CryptoCompare.
 * [Cost calculator](http://ether.fund/tool/calculator) - Calculate the cost of conducting a transaction or executing a contract on Ethereum.
 
+## web3.php {#web3.php}
+*Ethereum compatible PHP API which implements the Generic JSON RPC spec.*
+* [web3.php GitHub](https://github.com/sc0Vu/web3.php) - GitHub Repo.
 
 # Projects using Ethereum {#projects}
 
