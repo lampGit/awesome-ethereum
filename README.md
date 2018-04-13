@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) A curated list of awesome Ethereum Ressources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) A curated list of awesome Ethereum Resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
@@ -198,6 +198,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 *Solidity, the JavaScript-like language*
 
 * [Solidity Guide](https://solidity.readthedocs.org/en/latest/) - Learn the Solidity Language.
+* [Programming Community Curated Resources for learning Solidity](https://hackr.io/tutorials/learn-solidity)
 
 ## Serpent
 *Serpent, the Python-like language*
