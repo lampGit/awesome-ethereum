@@ -339,6 +339,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 ## Podcast {#podcast}
 
+* [The Smartest Contract](http://thesmartestcontract.libsyn.com/) - The Smartest Contract: a podcast for Ethereum developers.
 * [The Ether Review](https://letstalkbitcoin.com/blog/category/the-ether-review) - The Ether Review.
 
 
