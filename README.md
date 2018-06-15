@@ -153,7 +153,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-ETH) - Bitrrex.
 * [Exmo](https://exmo.com) - Exmo.
 * [Bitfinex](https://www.bitfinex.com/) - Bitfinex.
-* [The whole list](https://coinmarketcap.com/currencies/ethereum/#markets) -  All exchanges accepting ETH from coinmarketcap.com.  
+* [The whole list](https://coinmarketcap.com/currencies/ethereum/#markets) -  All exchanges accepting ETH from coinmarketcap.com.
 
 ## Faucets {#faucets}
 *Free Ether? don't have big expectation :)*
@@ -168,7 +168,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 # Wallets {#wallets}
 *To store your ethers*
 
-* [Mist](https://github.com/ethereum/mist) -  Mist - Official wallet with integrated full node.  
+* [Mist](https://github.com/ethereum/mist) -  Mist - Official wallet with integrated full node.
 * [Jaxx](https://jaxx.io/) - By KryptoKit, Wallets that unify the Bitcoin and Ethereum experience accross Devices.
 * [Myetherwallet](https://www.myetherwallet.com/) - Open Source JavaScript Client-Side Ether Wallet.
 * [Icebox](https://github.com/ConsenSys/icebox) - Lightwallet-powered cold storage solution..
@@ -185,11 +185,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 ## Mining pools {#mining-pools}
 *Fell alone? join a pool*
 
-* [Coinmine](https://www2.coinmine.pl/) -  Coinmine Pool.  
-* [Coinotron](https://www.coinotron.com/app?action=home) -  Coinotron Pool.  
-* [Dwarfpool](http://dwarfpool.com/) -  Dwarfpool .  
-* [Ethpool](http://ethpool.org/) -  Ethpool.  
-* [Nanopool](http://nanopool.org/) -  Nanopool.  
+* [Coinmine](https://www2.coinmine.pl/) -  Coinmine Pool.
+* [Coinotron](https://www.coinotron.com/app?action=home) -  Coinotron Pool.
+* [Dwarfpool](http://dwarfpool.com/) -  Dwarfpool .
+* [Ethpool](http://ethpool.org/) -  Ethpool.
+* [Nanopool](http://nanopool.org/) -  Nanopool.
 
 
 # Smart Contract languages {#smart-contracts-languages}
@@ -198,6 +198,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 *Solidity, the JavaScript-like language*
 
 * [Solidity Guide](https://solidity.readthedocs.org/en/latest/) - Learn the Solidity Language.
+* [Solidity Idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies.
 
 ## Serpent
 *Serpent, the Python-like language*
