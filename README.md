@@ -252,9 +252,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 ## Lists of projects
 * [State of the Dapps](http://dapps.ethercasts.com/) - State of the Dapps - an impressive list of projects.
-* [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
-* [ConcourseQ : Open Community Sourced Blockchain & ICO Due Diligence Platform](https://concourseq.io/)
-* [Settle : Decentralized Finance Operating System](http://settle.finance)
+* [Dapped](http://dapped.io) - Dapps & Games Due Diligence & Reviews
+* [ConcourseQ](https://concourseq.io/) - Open Community Sourced Blockchain & ICO Due Diligence Platform
+* [Settle](http://settle.finance) - Decentralized Finance Operating System
 
 # Companies {#companies}
 
