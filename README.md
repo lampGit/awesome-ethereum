@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) A curated list of awesome Ethereum Ressources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) A curated list of awesome Ethereum Resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
@@ -127,7 +127,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 * [Etherchain](https://www.etherchain.org/) -  Etherchain.
 * [Ether camp](https://live.ether.camp/) -  Ether camp.
-* [Etherscan](http://etherscan.io/) - Etherscan .
+* [Etherscan](http://etherscan.io/) - Etherscan.
 
 ### Testnet
 
@@ -169,7 +169,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 *To store your ethers*
 
 * [Mist](https://github.com/ethereum/mist) -  Mist - Official wallet with integrated full node.  
-* [Jaxx](https://jaxx.io/) - By KryptoKit, Wallets that unify the Bitcoin and Ethereum experience accross Devices.
+* [Jaxx](https://jaxx.io/) - By KryptoKit, Wallets that unify the Bitcoin and Ethereum experience across Devices.
 * [Myetherwallet](https://www.myetherwallet.com/) - Open Source JavaScript Client-Side Ether Wallet.
 * [Icebox](https://github.com/ConsenSys/icebox) - Lightwallet-powered cold storage solution..
 
@@ -228,7 +228,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 
 
 ## Swarm {#swarm}
-* [Swarm](https://www.youtube.com/watch?v=VOC45AgZG5Q&amp;index=11&amp;list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) - Swarm for Storage .
+* [Swarm](https://www.youtube.com/watch?v=VOC45AgZG5Q&amp;index=11&amp;list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) - Swarm for Storage.
 
 
 ## web3-j {#web3-j}
