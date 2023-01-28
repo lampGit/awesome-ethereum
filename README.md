@@ -251,6 +251,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/v
 * [Digix](https://digix.io/) - Transparent asset tracking of LBMA GOLD with blockchain technology 2.0.
 
 ## Lists of projects
+* [Launchcaster](https://www.launchcaster.xyz/) - Place to share and discover new Web3 projects. Built on Farcaster & Lens protocols. 
 * [State of the Dapps](http://dapps.ethercasts.com/) - State of the Dapps - an impressive list of projects.
 
 
